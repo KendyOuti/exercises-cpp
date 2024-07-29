@@ -1,4 +1,4 @@
-# Exercises-c++
+# Exercícios C++
 
 Este repositório contém minhas soluções para os exercícios propostos no curso de Python 3 do professor Guanabara. 
 
