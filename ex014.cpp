@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit
+// Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
 
 int main(){
 

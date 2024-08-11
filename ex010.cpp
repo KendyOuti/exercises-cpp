@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-/* Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar */
+/* Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. */
 
 int main() {
 
@@ -13,7 +13,7 @@ int main() {
 
     dolar = real / 5.62;
 
-    std::cout << "Com R$" << real << " voce pode comprar U$" << std::setprecision(4) << dolar;
+    std::cout << "Com R$" << real << " voce pode comprar U$" << std::fixed << std::setprecision(2) << dolar;
 
     return 0;
 }
